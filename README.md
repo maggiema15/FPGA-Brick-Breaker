@@ -4,6 +4,8 @@ A hardware implementation of the classic **Brick Breaker** game developed in **V
 
 The game was implemented on the **DE1-SoC FPGA board** and rendered to a monitor through VGA. The project combines synchronous digital logic, finite-state-machine control, collision detection, user input, and real-time graphics.
 
+> **Note:** This repository was uploaded in September 2026 for portfolio purposes. The project itself was completed in November 2025.
+
 ## Demo
 
 [Watch the gameplay demo](https://drive.google.com/file/d/1PXHdBugdIXkIkk-DFYGJjgxFIQSlddU-/view?usp=sharing)
